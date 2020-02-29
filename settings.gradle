@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':lottary-lib'
 rootProject.name='lottary-master'

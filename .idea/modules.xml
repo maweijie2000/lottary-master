@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lottary-lib/lottary-lib.iml" filepath="$PROJECT_DIR$/lottary-lib/lottary-lib.iml" />
       <module fileurl="file://$PROJECT_DIR$/lottary-master.iml" filepath="$PROJECT_DIR$/lottary-master.iml" />
     </modules>
   </component>
